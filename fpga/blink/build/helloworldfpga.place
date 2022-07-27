@@ -1,0 +1,55 @@
+Netlist_File: helloworldfpga.net Netlist_ID: SHA256:d59922600e01577b8b9edca7f15f06d986ae0fc5f8e96a282d9b7bd7d311924e
+Array size: 39 x 35 logic blocks
+
+#block name	x	y	subblk	block number
+#----------	--	--	------	------------
+u_qlal4s3b_cell_macro	1	1	0	#0
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_8.t_frag	21	16	0	#1
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_9.t_frag	22	16	0	#2
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_10.t_frag	21	18	0	#3
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_11.t_frag	21	15	0	#4
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_12.t_frag	22	18	0	#5
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_13.t_frag	19	17	0	#6
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_14.t_frag	21	19	0	#7
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_15.t_frag	19	16	0	#8
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_16.t_frag	19	15	0	#9
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_17.t_frag	24	16	0	#10
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_18.t_frag	23	15	0	#11
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_19.t_frag	24	15	0	#12
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_20.t_frag	20	16	0	#13
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_21.t_frag	23	17	0	#14
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_22.t_frag	23	19	0	#15
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_23.t_frag	24	18	0	#16
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_3.t_frag	23	12	0	#17
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_4.t_frag	23	13	0	#18
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_5.t_frag	20	12	0	#19
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_6.t_frag	21	14	0	#20
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_7.t_frag	22	14	0	#21
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O.t_frag	23	18	0	#22
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_1.t_frag	22	11	0	#23
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_2.t_frag	23	11	0	#24
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0.t_frag	21	11	0	#25
+$iopadmap$helloworldfpga.blueled	30	32	0	#26
+$iopadmap$helloworldfpga.greenled	24	32	0	#27
+$iopadmap$helloworldfpga.redled	22	32	0	#28
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_17_I0_LUT2_O_I1_LUT4_I3.c_frag	20	19	0	#29
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_17_I0_LUT2_O_I1_LUT4_I3_O_LUT4_I3.c_frag	20	18	0	#30
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_17_I0_LUT2_O_I1_LUT4_O.c_frag	20	15	0	#31
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_20_I0_LUT2_O_I1_LUT4_O.c_frag	24	19	0	#32
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT4_O.c_frag	21	12	0	#33
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT4_O_I3_LUT3_O_I2_LUT4_O.c_frag	21	17	0	#34
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT4_O_I3_LUT3_O_I2_LUT4_O_I3_LUT4_O.c_frag	22	19	0	#35
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_8_I0_LUT4_O.c_frag	20	17	0	#36
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_9_I0_LUT4_O.c_frag	22	17	0	#37
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_4_I0_LUT2_O_I1_LUT4_O.c_frag	22	13	0	#38
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_8_I0_LUT4_O_I2_LUT4_I2.c_frag	20	14	0	#39
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT4_O_I3_LUT3_O_I1_LUT4_O.c_frag	20	13	0	#40
+led_dffe_Q_EN_LUT2_O_I1_LUT4_O.c_frag	22	15	0	#41
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT4_O_I3_LUT3_O.t_frag	21	13	0	#42
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_4_I0_LUT2_O_I1_LUT3_I2.t_frag	22	12	0	#43
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT4_O_I3_LUT3_O_I2_LUT4_O_I3_LUT4_O_I3_LUT3_O.t_frag	20	20	0	#44
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_1_I1_LUT3_O.t_frag	20	11	0	#45
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_16_I0_LUT2_O_I1_LUT2_O.t_frag	23	16	0	#46
+led_dffe_Q_EN_LUT2_O_I0_LUT2_O_I1_LUT3_I0_O_LUT3_O_13_I0_LUT3_O.t_frag	21	20	0	#47
+$false		3	1	0	#48
+$true		2	1	0	#49

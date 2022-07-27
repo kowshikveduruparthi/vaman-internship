@@ -1,0 +1,9 @@
+#Block Name x   y   z    pcf_line
+#----- --  --  -    ----
+$iopadmap$sevenseg_dec.a  32  32  0  # set_io a	42
+$iopadmap$sevenseg_dec.b  30  32  0  # set_io b	38
+$iopadmap$sevenseg_dec.c  24  32  0  # set_io c	39
+$iopadmap$sevenseg_dec.d  22  32  0  # set_io d	34
+$iopadmap$sevenseg_dec.e   2  31  0  # set_io e	21
+$iopadmap$sevenseg_dec.f   1  31  0  # set_io f	20
+$iopadmap$sevenseg_dec.g   2  30  0  # set_io g	17
