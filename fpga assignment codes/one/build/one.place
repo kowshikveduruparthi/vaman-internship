@@ -1,0 +1,16 @@
+Netlist_File: one.net Netlist_ID: SHA256:3701cf2921e2dd6222239af66bdae2c7c8598f3ae80398c1e9f2bcda6b63fe28
+Array size: 39 x 35 logic blocks
+
+#block name	x	y	subblk	block number
+#----------	--	--	------	------------
+$iopadmap$one.a	12	3	0	#0
+$iopadmap$one.d	20	3	0	#1
+$iopadmap$one.e	22	3	0	#2
+$iopadmap$one.f	24	3	0	#3
+$iopadmap$one.b	14	3	0	#4
+$iopadmap$one.c	16	3	0	#5
+$iopadmap$one.g	26	3	0	#6
+z		32	3	0	#7
+a_LUT1_O.f_frag	24	11	0	#8
+$false		3	1	0	#9
+$true		2	1	0	#10

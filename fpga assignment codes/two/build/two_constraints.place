@@ -1,0 +1,7 @@
+$iopadmap$two.a  12   3  0  # set_io a  3
+$iopadmap$two.b  14   3  0  # set_io b  64
+$iopadmap$two.c  16   3  0  # set_io c  62
+$iopadmap$two.d  20   3  0  # set_io d  61
+$iopadmap$two.e  22   3  0  # set_io e  60
+$iopadmap$two.f  24   3  0  # set_io f  59
+$iopadmap$two.g  26   3  0  # set_io g  57

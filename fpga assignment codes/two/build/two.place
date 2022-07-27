@@ -1,0 +1,14 @@
+Netlist_File: two.net Netlist_ID: SHA256:20c8b370cffe86dcae26d046f63f83aa43c95623cc29ba7cdef4395409047bad
+Array size: 39 x 35 logic blocks
+
+#block name	x	y	subblk	block number
+#----------	--	--	------	------------
+$iopadmap$two.a	12	3	0	#0
+$iopadmap$two.b	14	3	0	#1
+$iopadmap$two.c	16	3	0	#2
+$iopadmap$two.d	20	3	0	#3
+$iopadmap$two.e	22	3	0	#4
+$iopadmap$two.f	24	3	0	#5
+$iopadmap$two.g	26	3	0	#6
+$false		3	1	0	#7
+$true		2	1	0	#8
