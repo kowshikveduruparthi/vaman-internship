@@ -1,0 +1,26 @@
+Netlist_File: sd1.net Netlist_ID: SHA256:1f4204dd44afb37f19ce8ae3d9bc9fcf910e3d0d8a16efc7a3e194c0876e910d
+Array size: 39 x 35 logic blocks
+
+#block name	x	y	subblk	block number
+#----------	--	--	------	------------
+next_state_LUT4_O.c_frag	24	7	0	#0
+current_state_dffc_Q_2	23	6	0	#1
+e_LUT3_O.t_frag	23	5	0	#2
+sequence_in_LUT3_I0_I1_LUT2_O.t_frag	23	7	0	#3
+f_LUT3_O.t_frag	24	5	0	#4
+next_state_mux4x0_Q_S0_LUT2_O.t_frag	24	6	0	#5
+$iopadmap$Sd1.e	22	3	0	#6
+$iopadmap$Sd1.f	24	3	0	#7
+$iopadmap$Sd1.g	26	3	0	#8
+$iopadmap$Sd1.detector_out	30	3	0	#9
+sequence_in	28	3	0	#10
+$iopadmap$Sd1.a	12	3	0	#11
+$iopadmap$Sd1.b	14	3	0	#12
+$iopadmap$Sd1.c	16	3	0	#13
+$iopadmap$Sd1.d	20	3	0	#14
+$auto$clkbufmap.cc:252:execute$1286.gmux	19	18	2	#15
+$auto$clkbufmap.cc:252:execute$1291.gmux	19	18	1	#16
+clock		22	33	0	#17
+reset		20	33	0	#18
+$false		3	1	0	#19
+$true		2	1	0	#20

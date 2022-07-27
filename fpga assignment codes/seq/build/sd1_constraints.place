@@ -1,0 +1,13 @@
+$iopadmap$Sd1.a   12   3  0  # set_io a         3
+$iopadmap$Sd1.b   14   3  0  # set_io b         64
+$iopadmap$Sd1.c   16   3  0  # set_io c         62
+$iopadmap$Sd1.d   20   3  0  # set_io d         61
+$iopadmap$Sd1.e   22   3  0  # set_io e         60
+$iopadmap$Sd1.f   24   3  0  # set_io f         59
+$iopadmap$Sd1.g   26   3  0  # set_io g         57
+sequence_in       28   3  0  # set_io sequence_in         56
+$iopadmap$Sd1.detector_out  30   3  0  # set_io detector_out         55
+clock             22  33  0  # set_io clock  34
+reset             20  33  0  # set_io reset  33
+$auto$clkbufmap.cc:252:execute$1286.gmux 19 18 2 # CLK2
+$auto$clkbufmap.cc:252:execute$1291.gmux 19 18 1 # CLK1

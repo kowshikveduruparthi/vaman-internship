@@ -1,0 +1,9 @@
+$iopadmap$seq.a  12   3  0  # set_io a         3
+$iopadmap$seq.b  14   3  0  # set_io b         64
+$iopadmap$seq.c  16   3  0  # set_io c         62
+$iopadmap$seq.d  22   3  0  # set_io d         60
+$iopadmap$seq.e  24   3  0  # set_io e         59
+$iopadmap$seq.f  26   3  0  # set_io f         57
+$iopadmap$seq.g  28   3  0  # set_io g         56
+$iopadmap$seq.y  14  32  0  # set_io y         30
+$iopadmap$seq.clock  22  32  0  # set_io clock       34
