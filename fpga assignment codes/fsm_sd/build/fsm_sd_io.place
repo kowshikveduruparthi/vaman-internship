@@ -1,0 +1,12 @@
+#Block Name x   y   z    pcf_line
+#---------- --  --  -    ----
+$iopadmap$fsm_sd.a  12   3  0  # set_io a         3
+$iopadmap$fsm_sd.b  14   3  0  # set_io b         64
+$iopadmap$fsm_sd.c  16   3  0  # set_io c         62
+$iopadmap$fsm_sd.d  20   3  0  # set_io d         61
+$iopadmap$fsm_sd.e  22   3  0  # set_io e         60
+$iopadmap$fsm_sd.f  24   3  0  # set_io f         59
+$iopadmap$fsm_sd.g  26   3  0  # set_io g         57
+x           28   3  0  # set_io x         56
+$iopadmap$fsm_sd.y  30   3  0  # set_io y         55
+$iopadmap$fsm_sd.redled  22  32  0  # set_io redled  34
